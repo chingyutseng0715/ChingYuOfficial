@@ -177,7 +177,7 @@ const Contact = ({ isOpen, onClose }) => {
               onChange={handleInputChange}
               rows={5}
               className="w-full px-4 py-3 bg-gray-800/50 border border-gray-600 rounded-lg text-white placeholder-gray-400 focus:outline-none focus:border-violet-500 focus:ring-1 focus:ring-violet-500 transition-all duration-200 resize-none"
-              placeholder="Tell me about your project, opportunity, or just say hello..."
+              placeholder="The reason you contact me, or simply send me a greeting......"
             />
           </div>
 
