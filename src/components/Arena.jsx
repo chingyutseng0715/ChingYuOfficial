@@ -20,7 +20,7 @@ const Arena = () => {
             {/*Card1 Top Left */}
             <div className='relative overflow-hidden rounded-3xl border border-white aspect-[4.4/4] transform transition-transform duration-300 hover:scale-105'>
                 <div className='aboslute h-full w-full'>
-                    <img src="public\images\firstEverWebsite.png" alt="firstWebsite_img" />
+                    <img src="/images/firstEverWebsite.png" alt="firstWebsite_img" />
                     <button className='absolute bottom-0 h-16 w-full bg-black bg-opacity-70 text-2xl font-bold hover:text-yellow-400 transition-all duration-300 text-nowrap'
                     onClick={() => window.location.href = 'https://chingyutseng0715.github.io/Capstone/Capstone.html'}>
                         <i class='bx  bx-link'  ></i> My Starting Point
@@ -31,7 +31,7 @@ const Arena = () => {
 
             {/*Card2 bottom Left */}
             <div className='relative overflow-hidden rounded-3xl border border-white aspect-[4.4/4] transform transition-transform duration-300 hover:scale-105'>
-                <img className='h-full w-full' src="public\images\conferenceEvent.png" alt="firstWebsite_img" />
+                <img className='h-full w-full' src="/images/conferenceEvent.png" alt="firstWebsite_img" />
             </div>
 
 
@@ -47,15 +47,15 @@ const Arena = () => {
             <div className='grid grid-cols-1 sm:grid-cols-3 gap-4 md:gap-6'>
                 {/*first card*/}
                 <div className='relative overflow-hidden rounded-3xl border border-white aspect-square transform transition-transform duration-300 hover:scale-105'>
-                    <img className='h-full w-full' src="public\images\reactBadge.png" alt="firstWebsite_img" />
+                    <img className='h-full w-full' src="/images/reactBadge.png" alt="firstWebsite_img" />
                 </div>
 
                 <div className='relative overflow-hidden rounded-3xl border border-white aspect-square transform transition-transform duration-300 hover:scale-105'>
-                    <img className='h-full w-full' src="public\images\SQL_badge.png" alt="sql_img" />
+                    <img className='h-full w-full' src="/images/SQL_badge.png" alt="sql_img" />
                 </div>
 
                 <div className='relative overflow-hidden rounded-3xl border border-white aspect-square transform transition-transform duration-300 hover:scale-105'>
-                    <img className='h-full w-full' src="public\images\AzureAI.png" alt="AzureAI_img" />
+                    <img className='h-full w-full' src="/images/AzureAI.png" alt="AzureAI_img" />
                     {/*<h1 className='absolute bottom-2 left-1/2 transform -translate-x-1/2 z-5 font-extrabold text-2xl text-black'>Azure</h1>*/}
                 </div>
 
@@ -63,7 +63,7 @@ const Arena = () => {
             </div>
 
             <div className='relative overflow-hiddend rounded-3xl aspect-[16/9] border border-white md:col-span-2 transform transition-transform duration-300 hover:scale-[1.02]'>
-                <img src="public\images\e-plant_shopping.png" alt="" />
+                <img src="/images/e-plant_shopping.png" alt="" />
                 <button className='absolute bottom-0 h-16 w-full bg-black bg-opacity-70 text-2xl font-bold hover:text-yellow-400 transition-all duration-300 text-nowrap'
                 onClick={() => window.location.href = 'https://chingyutseng0715.github.io/e-plantShopping/'}>
                     <i class='bx  bx-link'  ></i> Visit Now
