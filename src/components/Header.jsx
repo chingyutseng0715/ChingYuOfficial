@@ -21,7 +21,7 @@ const Header = () => {
         {/*Left section*/}
         <div className="flex lg:gap-14 gap-4 items-center">
             <img className="md:w-16 w-12"
-            src="public\images\CTcoding_image.png" alt="logo-img" />
+            src="/images/CTcoding_image.png" alt="logo-img" />
 
             <div className="hidden md:flex gap-5 items-center">
                 <button className="h-8 px-6 bg-gradient-to-r

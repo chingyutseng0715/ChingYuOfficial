@@ -15,7 +15,7 @@ const Intro = () => {
         {/* Selfie Section */}
         <div className='w-full h-full md:w-1/3 flex justify-center'>
           <img
-            src='public\images\selfie.jpeg' 
+            src='/images/selfie.jpeg' 
             alt='selfie-img'
             className='w-40 sm:w-48 md:w-64 lg:w-72 h-auto rounded-2xl object-cover shadow-lg border-4 border-[#68e1f1]'
             

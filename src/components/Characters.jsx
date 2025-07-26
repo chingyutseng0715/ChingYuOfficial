@@ -211,7 +211,7 @@ const Characters = () => {
               onClick={() => setSelectedAvatar("Python")}>
                 <div className='text-lg mb-2'>Python</div>
                 <div className='w-20 h-20 bg-gray-800/50 rounded-md flex items-center justify-center mb-2'>
-                  <img src="public\images\Python_logo.png" alt="Python-IMG" />
+                  <img src="/images/Python_logo.png" alt="Python-IMG" />
                 </div>
 
                 {/*Star rating*/}
@@ -232,7 +232,7 @@ const Characters = () => {
               onClick={() => setSelectedAvatar('React')}>
                 <div className='text-lg mb-2'>React</div>
                 <div className='w-20 h-20 bg-gray-800/50 rounded-md flex items-center justify-center mb-2'>
-                  <img src="public\images\React_logo.png" alt="React-IMG" />
+                  <img src="/images/React_logo.png" alt="React-IMG" />
                 </div>
 
                 {/*Star rating*/}
@@ -252,7 +252,7 @@ const Characters = () => {
               onClick={() => setSelectedAvatar('CLanguage')}>
                 <div className='text-lg mb-2'>C</div>
                 <div className='w-20 h-20 bg-gray-800/50 rounded-md flex items-center justify-center mb-2'>
-                  <img src="public\images\CLanguage.png" alt="C-IMG" />
+                  <img src="/images/CLanguage.png" alt="C-IMG" />
                 </div>
 
                 {/*Star rating*/}
@@ -272,7 +272,7 @@ const Characters = () => {
               onClick={() => setSelectedAvatar('SQL')}>
                 <div className='text-lg mb-2'>SQL</div>
                 <div className='w-20 h-20 bg-gray-800/50 rounded-md flex items-center justify-center mb-2'>
-                  <img src="public\images\SQL_logo.png" alt="C-IMG" />
+                  <img src="/images/SQL_logo.png" alt="C-IMG" />
                 </div>
 
                 {/*Star rating*/}
