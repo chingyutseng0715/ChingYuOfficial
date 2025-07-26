@@ -31,7 +31,7 @@ const Contact = ({ isOpen, onClose }) => {
 
     // TODO: Replace with actual FastAPI endpoint
     try {
-      const response = await fetch('https://chingyuofficial-api.onrender.com', {
+      const response = await fetch('https://chingyuofficial-api.onrender.com/api/contact', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
