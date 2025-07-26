@@ -192,7 +192,7 @@ const Characters = () => {
 
               </div>
 
-              <div className='flex gap-3'>
+              {/*<div className='flex gap-3'>
                 <button className='px-4 py-1 bg-violet-900 text-white rounded-md font-semibold hover:opacity-70 transition-all duration-300'>
                   Proficient
                 </button>
@@ -200,7 +200,7 @@ const Characters = () => {
                 <button className='px-4 py-1 bg-violet-900 text-white rounded-md font-semibold hover:opacity-70 transition-all duration-300'>
                   Redemption
                 </button>
-              </div>
+              </div>*/}
             </div>
 
             {/*Avatar Selection card*/}
