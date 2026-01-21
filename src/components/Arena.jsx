@@ -22,8 +22,8 @@ const Arena = () => {
                 <div className='aboslute h-full w-full'>
                     <img src="/images/firstEverWebsite.png" alt="firstWebsite_img" />
                     <button className='absolute bottom-0 h-16 w-full bg-black bg-opacity-70 text-2xl font-bold hover:text-yellow-400 transition-all duration-300 text-nowrap'
-                    onClick={() => window.location.href = 'https://chingyutseng0715.github.io/Capstone/Capstone.html'}>
-                        <i class='bx  bx-link'  ></i> My Starting Point
+                    onClick={() => window.location.href = 'https://github.com/chingyutseng0715/CS246_RAIINET/tree/readme/update'}>
+                        <i class='bx  bx-link'  ></i> 106/100 OOP project
                     </button>
 
                 </div>

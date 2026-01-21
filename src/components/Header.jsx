@@ -28,7 +28,7 @@ const Header = () => {
                  from-blue-400 to-gray-400 rounded-lg 
                  font-medium text-nowrap hover:opacity-80
                  transition-all duration-300"
-                 onClick={() => window.open('/images/cover_letter2A.pdf', '_blank')}>
+                 onClick={() => window.open('/images/Cover_Letter(14).pdf', '_blank')}>
                     Cover letter
                 </button>
 
@@ -36,7 +36,7 @@ const Header = () => {
                  from-gray-400 to-blue-400 rounded-lg 
                  font-medium text-nowrap hover:opacity-80
                  transition-all duration-300"
-                 onClick={() => window.open('/images/25.11.01_resume.pdf', '_blank')}>
+                 onClick={() => window.open('/images/Data_Resume(1).pdf', '_blank')}>
                     My Resume
                 </button>
             </div>
@@ -132,7 +132,7 @@ const Header = () => {
                  from-blue-400 to-gray-400 rounded-lg 
                  font-medium text-nowrap hover:opacity-80
                  transition-all duration-300"
-                 onClick={() => window.open('/images/cover_letter11.pdf', '_blank')}>
+                 onClick={() => window.open('/images/Cover_Letter(14).pdf', '_blank')}>
                     Cover letter
             </button>
 
@@ -140,7 +140,7 @@ const Header = () => {
                  from-gray-400 to-blue-400 rounded-lg 
                  font-medium text-nowrap hover:opacity-80
                  transition-all duration-300"
-                 onClick={() => window.open('/images/resume9.pdf', '_blank')}>
+                 onClick={() => window.open('/images/Data_Resume(1).pdf', '_blank')}>
                     My Resume
             </button>
           </div>

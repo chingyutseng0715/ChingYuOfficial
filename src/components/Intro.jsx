@@ -28,13 +28,12 @@ const Intro = () => {
             Hello, I'm Ching Yu Tseng(Eugene) !
           </h2>
           <p className='text-md md:text-lg text-gray-300 leading-relaxed break-words'>
-            I'm a 2nd year Math student currently studying in University of Waterloo. <br /> 
-            Interesting in declaring Data Science, C&O(Combination & Optimization) or ITM (Information Techonology Management) as my major next term. <br />
-            However, I don't want to limit my growth to academics alone. <br />
-            I'm eager to seek for opportunities to step into software engineer, data scientist or machine learning industry. <br />
+            I'm a 2nd year Applied Math & Machine Learning student currently studying in University of Waterloo. <br /> 
+            Interesting in data analytic, machine learning, software development as my future career<br />
+            I'm eager to seek for opportunities to step into these fields. <br />
             That said, I passionately attend serveral courses, online courses and lectures to expand my skillset, skill range. <br />
             Whether it's building intelligent applications, solving optimization problems or implement real-word examples to code all excites me. <br />
-            I'm currently finding coop, internship for my 2nd year, it will be a pleasure and a great opportunity to work with you!!!
+            I'm currently finding coop, internship for my 2026 summer term, it will be a pleasure and a great opportunity to work with you!!!
 
 
 
